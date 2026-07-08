@@ -8,8 +8,9 @@ https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
 #EXTINF:-1 group-title="😋 TIVINOR tv 😉", YOUTUBE.COM/@TIVINOR
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
 
-#EXTINF:-1 group-title="😋 TIVINOR tv 😉", ОБНОВЛЕНИЕ 01.07.26
+#EXTINF:-1 group-title="😋 TIVINOR tv 😉", ОБНОВЛЕНИЕ 08.07.26
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
+
 
 
 #EXTINF:-1 group-title="Вещание",Россия К
@@ -938,8 +939,6 @@ http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://iptvx.one/picons/sochi24.png" group-title="Вещание",Сочи 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="stv24" tvg-logo="https://iptvx.one/picons/stv24.png" group-title="Вещание",СТВ 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 #EXTINF:-1 tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvx.one/picons/tvk-krasnoyarsk.png" group-title="Вещание",ТВК Красноярск
 https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 tvg-id="tatarstan24" tvg-logo="https://iptvx.one/picons/tatarstan24.png" group-title="Вещание",Татарстан 24
@@ -990,8 +989,6 @@ http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Вещание",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Вещание",НТВ-America
-http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="Вещание",НТВ-Беларусь
 http://194.158.222.36:6107
 #EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",Пятый канал (Архив)
@@ -1468,8 +1465,6 @@ https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 group-title="Вещание",Санкт-Петербург
 https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
-#EXTINF:-1 group-title="Вещание",Саратов 24
-http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1 group-title="Вещание",Свое ТВ (Ставрополь)
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Вещание",Север ТВ HD
@@ -1514,8 +1509,6 @@ http://31.148.48.15:80/Zdorovie/index.m3u8
 http://tosnotv.ru/hlsshare/video.m3u8
 #EXTINF:-1 group-title="Вещание",Туапсе 24 HD
 http://185.185.69.62:8084/hls/tuapse24.m3u8
-#EXTINF:-1 group-title="Вещание",Туган Тел HD
-http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Вещание",Чаваш Ен
 https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Вещание",Экспресс ТВ (Пенза)
@@ -1604,8 +1597,6 @@ http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:-1 group-title="Вещание",CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 group-title="Вещание",CPS FreshUA
-http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
 #EXTINF:-1 group-title="Вещание",BOX Anime HD
 http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 #EXTINF:-1 group-title="Вещание",BOX Metall HD
@@ -2176,8 +2167,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="match-boets" tvg-logo="http://ex.iptvin.ru/pic/2/0c3262b5533961ef860c3952e709f0ad.png" logo="http://ex.iptvin.ru/pic/2/61e8630fd2649b2032cce8670868258e.png" channelid="81" group-title="Спорт",Матч! Боец
 http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://ex.iptvin.ru/pic/2/thumb-a90f62dc350615b3946789c0886a6698.png" logo="http://overlay.iptvin.ru/epg/PIC/1_0_16_51B_D_70_1680000_0_0_0.png" channelid="2831" group-title="Спорт",Матч! Футбол 3
-http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 group-title="Спорт",Спорт ТВ
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="start" tvg-logo="http://ex.iptvin.ru/pic/2/Start-HD-220x220.png" logo="http://ex.iptvin.ru/pic/2/Start-HD-220x132-tr.png" channelid="631" group-title="Спорт",Старт HD
@@ -2454,8 +2443,6 @@ http://kinowalk.hopto.org/equilibrium_live
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="125" tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV 1000 Action HD
 http://46.32.176.50/tv1000action/index.m3u8
-#EXTINF:-1 group-title="Кино",Viasat Kino Action HD
-http://tenta.golffan.us:7100/687edb0b4918db4ed5a6f313e527f513?token=128762f0bd32e94a005ad2b25d51fbd5
 #EXTINF:-1 group-title="Кино",Viasat Kino HD
 http://tenta.golffan.us:7100/74be03caf45786acbbecd5e0a7789a0d?token=128762f0bd32e94a005ad2b25d51fbd5
 #EXTINF:-1 tvg-id="2823" tvg-logo="http://epg.it999.ru/img/2823.png" group-title="Кино",Viju+ Comedy HD
@@ -2530,10 +2517,6 @@ http://31.148.48.15:80/Nostalgiya/index.m3u8?token=rostik_tv
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",Время [R]
 http://31.148.48.15:80/Vremya/index.m3u8?token=rostik_tv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Шоу Бенни Хилла
-https://live20.bozztv.com/giatvplayout7/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Мистер Бин
-https://live20.bozztv.com/giatvplayout7/ushba45/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Овертайм
 https://live20.bozztv.com/giatvplayout7/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="Кино",Кинозалы 25
@@ -2636,8 +2619,6 @@ http://pl.online24.pm/play/1963/FE3E3EDFFB26784/video.m3u8
 http://pl.online24.pm/play/7068/FE3E3EDFFB26784/video.m3u8
 #EXTINF:-1 group-title="Кино",Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 group-title="Кино",ZubrilomFilm
-http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="Кино",wihail
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="Кино",Akudji
@@ -2680,16 +2661,12 @@ http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино",Сити Эдем — Кинодок
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино",Сити Эдем — Киноклассика
-https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
 #EXTINF:-1 tvg-id="40783" group-title="Кино",Сити Эдем — Киномистика
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино",Сити Эдем — Киносемья
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
 #EXTINF:-1 tvg-id="41333" group-title="Кино",Сити Эдем — Киноэкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 tvg-id="46209" group-title="Кино",Сити Эдем — Теленовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
 #EXTINF:-1 tvg-id="34246" group-title="Кино",Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино",FAN
@@ -2892,18 +2869,12 @@ http://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8?|User-Agent=http-user-age
 http://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="Кино",Премьера hd
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит hd
-https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кино Kомедия HD
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс HD
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",КИНОСЕМЬЯ hd
-https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",КИНОСЕРИЯ HD
 https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание HD
-http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="Кино",viju+ Premiere HD
@@ -2912,10 +2883,6 @@ http://185.46.16.239:8000/VIP_Premiere
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кино",Amedia 1
 http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Кино",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Кино",Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://45.145.32.13:20440/mama/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино",Bollywood HD
@@ -2934,10 +2901,6 @@ http://31.148.48.15:80/A1/index.m3u8
 http://31.148.48.15:80/Fan/index.m3u8
 #EXTINF:-1 group-title="Кино",Film Box
 http://193.25.8.59:8000/FilmBOX
-#EXTINF:-1 group-title="Кино",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Pro100 TV
-http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",SD REX
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
 #EXTINF:-1 group-title="Кино",Sci-Fi
@@ -3316,8 +3279,6 @@ http://origin5.mediacdn.ru/live/brics/index.m3u8
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Шоу",Univer HD
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="jimjam" tvg-logo="https://iptvx.one/picons/jimjam.png" group-title="Шоу",JimJam
-http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Шоу",Nickelodeon
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://school.radiokids.fm/wp-content/uploads/2019/08/Logo_main.png" group-title="Шоу",RADIOKIDS.FM
@@ -3362,8 +3323,6 @@ http://stream8.cinerama.uz/1445/index.m3u8
 http://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.postimg.cc/d31Fd5yb/c5a75a5daf44ab43369ab54f367331cb.png" logo="https://i.postimg.cc/mgFb8p5R/7d9f5fe856fddfad0fbc33d49dcff549.png" channelid="3556" group-title="Шоу",В гостях у сказки
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="http://ex.iptvin.ru/pic/2/2bd4c8af1670253241e51f8df33cb8a0.png" logo="http://ex.iptvin.ru/pic/2/d5b1c880e0c2fdc576be6604a67a0233.png" channelid="39" group-title="Шоу",Детский мир
-http://188.134.7.215:4022/udp/235.10.10.185:1234
 #EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия" tvg-logo="http://ex.iptvin.ru/pic/2/b3bcc69ba511006bb0ff228bebfa2e2b.png" logo="http://ex.iptvin.ru/pic/2/092c8ab81f2965613f960429c9b6db61.png" channelid="186" group-title="Шоу",Мультиландия HD
 http://188.134.7.215:4022/udp/235.10.10.77:1234
 #EXTINF:-1 tvg-id="multimuzyka" tvg-logo="http://www.oreol.tv/img/multmus.jpg" logo="http://televizor.org/img/logopit/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.png" channelid="3704" group-title="Шоу",Мультимузыка
@@ -3630,8 +3589,6 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-id="zal-suda" tvg-logo="https://iptvx.one/picons/zal-suda.png" group-title="Шоу",Зал суда HD
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Шоу",RTVI
-https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="Шоу",ЦТВ
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Шоу",Ностальгия
@@ -3642,8 +3599,6 @@ http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="tolk" tvg-logo="https://epg.iptvx.one/picons/tolk.png" group-title="Шоу",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="Шоу",НСТ
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Шоу",Домашний
 http://45.145.32.13:20440/domashnij/index.m3u8?token=test
 #EXTINF:-1 group-title="Шоу",Пятница
@@ -3986,8 +3941,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg" group-title="Музыка",88 STEREO TV
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo320.png" group-title="Музыка",Radio Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png" group-title="Музыка",Radio Ibiza TV
@@ -4084,8 +4037,6 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Музыка",Ritmo Top Latina HD
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="hlsproxy-2" tvg-name="no epg музыка" tvg-logo="http://45.159.189.42/Logo/olsib_Galicia.png" tvg-rec="0" group-title="Музыка",Top TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Музыка",Now 70's HD
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Музыка",Now 80's HD
@@ -4112,8 +4063,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",KroneHit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыка",88 stereo HD
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="Музыка",Radio Ibiza
@@ -4180,8 +4129,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",A21 Network - NM TV
 https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:-1 group-title="Музыка",MIXM TV
-http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 group-title="Музыка",Новое Радио (BY)
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Музыка",Новое Радио ТВ
@@ -4220,8 +4167,6 @@ https://jmp2.uk/stvp-CHAJ0500413A
 http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Музыка",Radio M2O
 http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-logo="http://only4.tv/ch/123.png" channelid="285" group-title="Музыка",Жара HD
-http://188.134.7.215:4022/udp/235.10.10.114:1234
 #EXTINF:-1 tvg-id="matur-tv" tvg-logo="http://teleon.tv/images/logos/matur-tv.png" logo="https://i.postimg.cc/3JN7R3BF/42d1f2b0148e319bf9972f0303b7347e.png" channelid="-1" group-title="Музыка",Матур ТВ HD
 http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://ex.iptvin.ru/pic/2/25a360b6fee73e109c13d9cb87be8500.png" logo="http://ex.iptvin.ru/pic/2/39cf8ffa0c8c658be1d5ed50c0fd61be.png" channelid="136" group-title="Музыка",Муз-ТВ
@@ -5230,8 +5175,6 @@ https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 https://s70378.cdn.ngenix.net/gulli/2/index.m3u8
 #EXTINF:-1 group-title="Разное",Gulli Girl
 http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1 group-title="Разное",Gulli Girl
-http://194.152.35.17/gulli_girl/index.m3u8
 #EXTINF:-1 group-title="Разное",Hollywood HD
 https://s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 group-title="Разное",Jibek Joly
@@ -5296,8 +5239,6 @@ https://s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
 https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
 #EXTINF:-1 group-title="Разное",Tiji
 http://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
-#EXTINF:-1 group-title="Разное",Tiji
-http://194.152.35.17/tiji/index.m3u8
 #EXTINF:-1 group-title="Разное",Travel + Adventure
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 #EXTINF:-1 group-title="Разное",Travel + Adventure
@@ -5616,8 +5557,6 @@ http://194.152.35.17/Mult/index.m3u8
 http://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Разное",Мульт HD
 http://31.148.48.15:80/Mult_HD/index.m3u8
-#EXTINF:-1 group-title="Разное",Мульт USA
-http://4.59.210.197:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Разное",Мульт и музыка
 http://31.148.48.15:80/Multimuzika/index.m3u8
 #EXTINF:-1 group-title="Разное",Мультиландия
@@ -5976,16 +5915,12 @@ https://s70378.cdn.ngenix.net/hd_life/2/index.m3u8
 http://31.148.48.15:80/Tochka_TV/index.m3u8
 #EXTINF:-1 group-title="Разное",Тува 24
 http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
-#EXTINF:-1 group-title="Разное",Туган Тел HD
-http://streamer.rtkufa.ru/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Тында ТВ
 http://s84942.cdn.ngenix.net/hls/CH_R28_TYNDATV/variant.m3u8
 #EXTINF:-1 group-title="Разное",Уникум
 http://31.148.48.15:80/Detskiy/index.m3u8
 #EXTINF:-1 group-title="Разное",Хабаровск ТВ
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_HABAROVSK/variant.m3u8
-#EXTINF:-1 group-title="Разное",Харьков Z
-https://live.kharkov-z.ru/app/potok/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Хочу все знать
 http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 #EXTINF:-1 group-title="Разное",Чаваш Ен HD
@@ -6036,8 +5971,6 @@ http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
 http://new.bezhintercomp.ru:8080/hls/radio/index.m3u8
 #EXTINF:-1 group-title="Разное",Радио России
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1 group-title="Разное",Радио Юмор FM [BY]
-http://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Столото ТВ
 http://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
 #EXTINF:-1 group-title="Разное",Канал из https://dl.dropbox.com/scl/fi/ur595ef4cqmfst951kboh/.NET_2.m3u?rlkey=0cw1ficfrq0m6yg2udh16qn78&st=.m3u
@@ -6152,8 +6085,6 @@ http://149.100.11.252:8000/play/a00m/index.m3u8
 http://149.100.11.252:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Разное",ABU DHABI SPORT 2
 http://149.100.11.252:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Разное",ADN Radio
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/adntv/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="Разное",AE Radio
 http://scl.edge.grupoz.cl/veideo/live/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",AFN Music
@@ -6162,8 +6093,6 @@ https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 https://live.albavision.net/live/albdreams.m3u8
 #EXTINF:-1 group-title="Разное",ALB UK
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Разное",AMGA TV
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",ARB Kepez
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Разное",ARD Alpha
@@ -6236,8 +6165,6 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_
 https://av.alarabiya.net/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Разное",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="Разное",Al Jazeera English
-https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 group-title="Разное",Al Jazeera Mubasher
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 group-title="Разное",Al Khalij
@@ -6258,8 +6185,6 @@ https://stream-aleph.m.ro/Aleph/Alephnewsmain.stream_720p/playlist.m3u8
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/chunklist_b4192000_slGER.m3u8
 #EXTINF:-1 group-title="Разное",Alfa Omega TV
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-#EXTINF:-1 group-title="Разное",Aliento Vision
-http://livestreamcdn.net:1935/Alientoenvivo/Alientoenvivo/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Allgau TV
 http://stream01.stream.welocal.world/stream/fhd-allgaeutv_25679/stream_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Alpha TV
@@ -6420,10 +6345,6 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 http://84.54.128.52:9999/BTV
 #EXTINF:-1 group-title="Разное",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Baden TV Sud
-https://cdn.icu.de/rtplive/btvsued.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Baku TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 group-title="Разное",Balaton TV
@@ -6528,8 +6449,6 @@ https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
 #EXTINF:-1 group-title="Разное",CCTV5
 http://49.0.64.96:8007/CCTV-5
-#EXTINF:-1 group-title="Разное",CDM TV
-https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",CGN TV
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 group-title="Разное",CGTN
@@ -6590,8 +6509,6 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 #EXTINF:-1 group-title="Разное",Canal 26
 http://45.5.118.152:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="Разное",Canal 32
-https://edge16.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 group-title="Разное",Canal 33 Madrid
 http://media2.streambrothers.com:1935/8140/8140/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Canal 4 Jujuy
@@ -6690,8 +6607,6 @@ http://stmv1.srvif.com/classique/classique/playlist.m3u8
 http://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Cmc TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Разное",Code Fashion TV
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Code Health TV
@@ -6834,8 +6749,6 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Разное",EDU TV
 https://cdn4.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
-#EXTINF:-1 group-title="Разное",EL PINGUINO TV
-https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1 group-title="Разное",ERT 3
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="Разное",ERT Cosmos
@@ -6848,8 +6761,6 @@ https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 group-title="Разное",ESPN
 http://190.115.3.46:9991/play/a0zg/index.m3u8
-#EXTINF:-1 group-title="Разное",ESPN 2
-http://8.243.126.131:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Разное",ESPN 3
 http://190.115.3.46:9991/play/a0yf/index.m3u8
 #EXTINF:-1 group-title="Разное",ESPN 5
@@ -6936,10 +6847,6 @@ http://89.38.8.130:39419/
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 group-title="Разное",Extra TV
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Разное",Extrema Kids
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Extremadura Radio
 https://canalextremadura-audio.flumotion.cloud/canalextremaduralive/smil:channel1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Extremadura TV
@@ -6960,14 +6867,10 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Разное",Faros 1
 https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Faros 2
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Fashion Box
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Fashion One
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Fast Sports
-http://s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Feel Good Radio
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Fehervar TV
@@ -6994,16 +6897,12 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 group-title="Разное",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="Разное",Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 group-title="Разное",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Разное",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index_2692.m3u8
 #EXTINF:-1 group-title="Разное",Fox Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 group-title="Разное",France 2
-http://69.64.57.208/france2/playlist.m3u8
 #EXTINF:-1 group-title="Разное",France 24 Arabic
 http://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Разное",France 24 English
@@ -7042,8 +6941,6 @@ http://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 http://143.244.63.87/gametoon/index.m3u8
 #EXTINF:-1 group-title="Разное",Garage TV
 http://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="Разное",Gik TV
-https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 group-title="Разное",Giornale Radio
 https://gr2.fluid.stream/GR_sport/livestream/chunklist.m3u8?FLID=1?FLID=1
 #EXTINF:-1 group-title="Разное",Global Fashion
@@ -7054,8 +6951,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 http://italbania.live/globetv/tibo/index.m3u8
 #EXTINF:-1 group-title="Разное",Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 group-title="Разное",Globo TV Brasil
-http://187.62.68.32:8080/GLOBO/index.m3u8?token=test
 #EXTINF:-1 group-title="Разное",Gol TV
 http://179.60.51.134:8888/GOLTV/index.m3u8
 #EXTINF:-1 group-title="Разное",Golf Channel
@@ -7076,8 +6971,6 @@ http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Разное",HBO 3
 http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Разное",HBO Family
-http://8.243.126.131:8000/play/a0f6/index.m3u8
 #EXTINF:-1 group-title="Разное",HKTV
 https://reflect-hktv.cablecast.tv/live-3/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 group-title="Разное",HLN
@@ -7112,8 +7005,6 @@ https://h057.video-stream-hosting.de/heinstv-live/_definst_/smil:livestream.smil
 http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
 #EXTINF:-1 group-title="Разное",Hidabroot TV
 http://htv-live.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 group-title="Разное",High Vision TV
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 group-title="Разное",Himlen TV7 (SE)
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Hipodromo de Monterrico TV
@@ -7154,8 +7045,6 @@ https://live.i-news.tv/hls/stream.m3u8
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 group-title="Разное",ITV 2
 http://185.19.191.2:8090/ITV2/index.m3u8
-#EXTINF:-1 group-title="Разное",ITV 3
-http://81.137.213.119:4201/bysid/8294
 #EXTINF:-1 group-title="Разное",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Icel TV
@@ -7182,8 +7071,6 @@ http://glorystartv.live/Impact/index.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Разное",In TV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="Разное",Info HD
-https://netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 group-title="Разное",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 group-title="Разное",Infosport+
@@ -7226,8 +7113,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
-#EXTINF:-1 group-title="Разное",Jugoton TV
-https://stream.cmctv.hr:49998/jugoton/live.m3u8
 #EXTINF:-1 group-title="Разное",Juice TV NZ
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 group-title="Разное",Junior TV
@@ -7336,8 +7221,6 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://livestream.kitzski.at/KitzbuehelTV/KitzbuehelTV_Livestream.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Klan Radio
 https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Klape i Tambure TV
-https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 group-title="Разное",Komaromi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Разное",Kontra TV
@@ -7382,8 +7265,6 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b800000
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Разное",L1 Limburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 group-title="Разное",LA-X Radio Visual
-http://stream.eleden.com:1935/livelax/livelax/playlist.m3u8
 #EXTINF:-1 group-title="Разное",LN 24
 http://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Разное",LOGOS TV (Espanol)
@@ -7432,8 +7313,6 @@ http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 https://streamcdnb3-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Littoral TV
 http://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Loading TV
-http://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Locall TV
 https://dash3.antik.sk/live/test_locall/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Loe Media
@@ -7446,8 +7325,6 @@ https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 #EXTINF:-1 group-title="Разное",Love World Arabic
 http://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Love World Pacifics
-http://go5lm6a6dawb-hls-live.5centscdn.com/6731_push_2488_001/bfbb1582812b8f8194c755a88c3abe9e.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Love World SAT
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Love World UK
@@ -7626,8 +7503,6 @@ https://st.my5.media/hls/hd/index.m3u8
 https://h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd82/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",NBA TV
 http://148.230.149.45:1021/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Разное",NBC
-http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 group-title="Разное",NBC 6 South Florida
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Разное",NDR
@@ -7704,8 +7579,6 @@ https://hls.navahang.live/hls/stream.m3u8
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1 group-title="Разное",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="Разное",Nick Jr
-http://8.243.126.131:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Разное",Nick Music
 http://38.226.210.46:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="Разное",Nickelodeon USA
@@ -7824,8 +7697,6 @@ https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 https://57068da1deb21.streamlock.net/ondaradioweb/ondaradioweb/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Opoja TV
 https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Ora News
-http://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 group-title="Разное",Orient TV Palestine
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Osh TV
@@ -7902,10 +7773,6 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Разное",Pervoe Radio (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Pink Red TV
-https://edge8.pink.rs/redtv/index.m3u8
-#EXTINF:-1 group-title="Разное",Pink TV
-https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 group-title="Разное",Planeta TV Chile
 http://scl.edge.grupoz.cl/planetatv/live/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Plovdivska Pravoslavna TV (BG)
@@ -8002,8 +7869,6 @@ https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
 http://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 group-title="Разное",RS News Sports 2
 http://video03.logicahost.com.br/rssports2/rssports2/playlist.m3u8
-#EXTINF:-1 group-title="Разное",RS News Sports 3
-http://video03.logicahost.com.br/rssports3/rssports3/playlist.m3u8
 #EXTINF:-1 group-title="Разное",RS News Sports 5
 http://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 #EXTINF:-1 group-title="Разное",RS News Sports 6
@@ -8030,8 +7895,6 @@ https://rta-tv.akamaized.net/live/SD/RTA-2/RTA/RTA-2.m3u8
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
 #EXTINF:-1 group-title="Разное",RTA World
 https://rta-tv.akamaized.net/live/SD/RTA-5/RTA/RTA-5.m3u8
-#EXTINF:-1 group-title="Разное",RTB
-http://69.64.57.208/rtb/playlist.m3u8
 #EXTINF:-1 group-title="Разное",RTC Telecalabria (IT)
 https://w1.mediastreaming.it/calabriachannel/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",RTCG MNE
@@ -8044,8 +7907,6 @@ https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
 https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
 #EXTINF:-1 group-title="Разное",RTI 1
 http://69.64.57.208/rti1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",RTI 2
-http://69.64.57.208/rti2/playlist.m3u8
 #EXTINF:-1 group-title="Разное",RTL 102.5 Best
 https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="Разное",RTL 102.5 Bro & Sis
@@ -8072,8 +7933,6 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/1080p.m3u8
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Разное",RTL9
 http://145.239.5.177/308/index.m3u8
-#EXTINF:-1 group-title="Разное",RTN (USA)
-http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 group-title="Разное",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:-1 group-title="Разное",RTP 2
@@ -8152,8 +8011,6 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Radio 538 (Webcam)
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 group-title="Разное",Radio 60/70/80 TV
-https://5a1178b42cc03.streamlock.net/607080stream/607080stream/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Radio 70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Radio Aalsmeer
@@ -8178,14 +8035,10 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/c
 http://cloudtv.azotosolutions.com:1935/radiocity/radiocity/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Radio Clube 100.5
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Radio Clube 105.5
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 group-title="Разное",Radio Dance FM
 http://5eaccbab48461.streamlock.net:1935/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Radio Delta International
 https://w1.mediastreaming.it/deltainternational/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Radio Discount TV
-https://585b674743bbb.streamlock.net/9030/9030/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Radio Eenhoorn
 https://5f86a49aedff6.streamlock.net/radio_eenhoorn/radio_eenhoorn/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Radio Euer TV
@@ -8314,8 +8167,6 @@ http://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1
 https://livevideo.netconnect.ch/radiozuerisee/live/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Radio-Tele 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/.m3u8
-#EXTINF:-1 group-title="Разное",Radiolina
-https://streamcdng6-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S21086939/Cg0YwQUGWUN8/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Radionorba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Разное",Rai 1
@@ -8450,16 +8301,12 @@ https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
 http://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Sachsen Fernsehen Dresden
 http://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Sachsen Fernsehen Lausitz
-https://lausitz.iptv-playoutcenter.de/lausitz/lausitzfernsehen.stream_1/chunks.m3u8
 #EXTINF:-1 group-title="Разное",Sachsen Fernsehen Leipzig
 http://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Safari TV
 http://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Sama TV
 http://185.9.2.18/chid_372/index.m3u8
-#EXTINF:-1 group-title="Разное",Samen 1 TV
-http://server-67.stream-server.nl:1935/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Samnaun TV
 http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 group-title="Разное",San Roque TV
@@ -8544,8 +8391,6 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-17.mazana.tv/slagrpremium.m3u8s
 #EXTINF:-1 group-title="Разное",Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 group-title="Разное",Smile TV
-http://hfa09a2swye.sn.mynetname.net:801/hls/streaming/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="Разное",Song TV Armenia
@@ -8792,8 +8637,6 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 https://w1.manasat.com/tvmana-english/tvmana-english/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",TV MANA (RUS)
 https://w1.manasat.com/tvmana-leste/tvmana-leste/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",TV MANA ARG
-http://w2.manasat.com:1935/tvmana-ar/tvmana-ar/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",TV MANA BRASIL
 https://w1.manasat.com/tvmana-brasil/tvmana-brasil/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",TV MANA Church
@@ -8820,8 +8663,6 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 http://tv02.zas.media:1935/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 group-title="Разное",TV Max 90
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",TV Max Rio
-https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",TV Myjava
 https://videostudioris.sk/hls/tvm.m3u8
 #EXTINF:-1 group-title="Разное",TV Nis
@@ -8934,8 +8775,6 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",TVR Xenon
 https://load-balancer.azotosolutions.com/cdnedge4/smil:live4.smil/playlist.m3u8
-#EXTINF:-1 group-title="Разное",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
 #EXTINF:-1 group-title="Разное",TVSN (NZ)
 http://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master_TVSN.m3u8
 #EXTINF:-1 group-title="Разное",TVT Zgorzelec
@@ -9150,8 +8989,6 @@ http://109.106.239.1:8001/play/a09j
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 group-title="Разное",Vida RTV Plus
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 group-title="Разное",Videolina TV (Italia)
-http://streamcdnb4-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Videotour TV
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Vidusdaugavas TV
@@ -9308,8 +9145,6 @@ http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 group-title="Разное",Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="Разное",Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Евразия Орск
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Запад 24
@@ -9320,8 +9155,6 @@ https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 https://istoki.tv//live/stream1/chunklist.m3u8
 #EXTINF:-1 group-title="Разное",Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="Разное",Кинохит HD
-http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Разное",Красная Линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Краснодар
@@ -9336,14 +9169,10 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 https://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-id="mamonttv" group-title="Разное",Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 group-title="Разное",Мордовия 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Москва 24
-http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 group-title="Разное",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Разное",Наш Дом
@@ -9372,12 +9201,8 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 group-title="Разное",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Про100 ТВ
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Разное",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Разное",Раменское ТВ
@@ -9402,22 +9227,16 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="Разное",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Разное",СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5209XbZ/download.png" group-title="Разное",Сфера ТВ
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/sferarv/720p/chunks.m3u8
 #EXTINF:-1 group-title="Разное",Таврия ТВ
 https://rtpmedia-pull-hls.cdnvideo.ru/rtpmedia-pull/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Тайны Галактики
-http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Разное",Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",ТВК (Красноярск)
 https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Разное",Театр
-http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg" group-title="Разное",Тел+ Астрахань
 https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Теледом ТВ HD
@@ -9434,8 +9253,6 @@ https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 group-title="Разное",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Шансон ТВ
-http://195.26.83.96:7005/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg" group-title="Разное",Щелковское ТВ
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 group-title="Разное",Эхо ТВ 24
@@ -9516,8 +9333,6 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="Разное",Travel+Adventure HD
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 group-title="Разное",RU.TV
-http://5.188.159.128:8070/rutv/index.m3u8
 #EXTINF:-1 group-title="Разное",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Разное",MCM HD
@@ -9560,24 +9375,6 @@ http://5.188.159.128:8070/udar/index.m3u8
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 group-title="Разное",Online TV
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Разное",Россия 1
-http://195.26.83.96:7013/play/13/index.m3u8
-#EXTINF:-1 group-title="Разное",RT DOC HD
-http://195.26.83.96:7017/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Разное",555
-http://195.26.83.96:7029/play/a001
-#EXTINF:-1 group-title="Разное",Соловьев Live
-http://195.26.83.96:7029/play/a003
-#EXTINF:-1 group-title="Разное",ТНТ Music
-http://195.26.83.96:7029/play/9
-#EXTINF:-1 group-title="Разное",Viasat Sport
-http://195.26.83.96:7013/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Разное",Terra
-http://195.26.83.96:7009/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Разное",Ялта
-http://195.26.83.96:7029/play/a006
-#EXTINF:-1 group-title="Разное",о2тв
-http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 group-title="Разное",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Разное",ДимГрад 24
@@ -9596,8 +9393,6 @@ https://jmp2.uk/stvp-USBA3400003IP
 https://jmp2.uk/stvp-KRBB500039Y5
 #EXTINF:-1 group-title="Разное",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Разное",Матч! футбол 3
-http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Разное",Первый канал
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="Разное",Россия 1
@@ -10324,8 +10119,6 @@ http://185.46.16.239:8000/Match_Arena
 http://185.46.16.239:8000/Match_Nash_Sport
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://185.46.16.239:8000/Match_Igra
-#EXTINF:-1 group-title="Спорт",KHL
-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
@@ -10334,8 +10127,6 @@ https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rq3PtBg/image-36.png" group-title="Спорт",Беларусь 5
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w1496692200_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n84rwwZs/image-44.png" group-title="Спорт",Удар HD
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPL4ypYf/image-86.png" group-title="Спорт",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS5Wj9XL/image-93.png" group-title="Спорт",Africa 24 Sport
@@ -10408,12 +10199,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist_w1708599484.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6z8vtD8/image-27.png" group-title="Спорт",Rope2Rope
 https://rpn.bozztv.com/gusa/gusa-rope2rope/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорт",RS News Sports 2
-https://video03.logicahost.com.br/rssports2/rssports2/chunklist_w1763371149.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорт",RS News Sports 3
-https://video03.logicahost.com.br/rssports3/rssports3/chunklist_w1660273309.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KpTPVZbR/image-44.png" group-title="Спорт",RS News Sports 5
-https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w1651088250.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNdgHcp3/image-4.png" group-title="Спорт",Sportdigital Free
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kjsgn7ns/image-16.png" group-title="Спорт",Sports Connect
@@ -10560,8 +10345,6 @@ https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=20
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/849/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD",NTV HD (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
-#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD",Rossiya 1 Vainah (576i)
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVi.ru@SD",RTVi (450p)
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@SD",RU.TV (1080p)
@@ -10598,10 +10381,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
 #EXTINF:-1 tvg-id="LDPRTV.ru@SD",ЛДПР ТВ (720p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания (576p)
-https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD",Надежда (720p)
@@ -10800,8 +10579,6 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="Кино",САМЫЙ ЛУЧШИЙ КАНАЛАРЫ 🤣
 https://dl.dropbox.com/scl/fi/6aoezzl8i8req33y8clfe/.mp4?rlkey=rq0kzl97mzmgtlj7zx64mgi2j&st=le0pgwhj&dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="Кино",Провинция
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="Кино",Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="Кино",NUR TV
@@ -11104,8 +10881,6 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDwfqndN/image-26.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",КВАНТ
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KVANT/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrFMND9x/image-47.png" group-title="Вещание",Компас ТВ (Каменск-Уральский)
-http://46.48.96.88:81/udp/239.255.3.172:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gwQJ2Rc/image-46.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",Комсомольское время 6ТВ (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_6TVKMS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RYXW5Fv/image-83.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",КТВ Луч (Сызрань)
@@ -11168,8 +10943,6 @@ http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHRQyrxC/image-29.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",Осетия-Ирыстон
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
-#EXTINF:-1 tvg-name="ОТВ Екатеринбург (Нижний Тагил)" tvg-logo="https://i.ibb.co/twRPHTvS/image-32.png" group-title="Вещание",ОТВ Екатеринбург (Нижний Тагил)
-http://46.48.96.88:81/udp/239.255.3.82:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv8SyZYM/image-38.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",Первоуральск ТВ
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PERVOURALSKTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fTs8WZy/image-40.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Вещание",Первый городской (Омск)
@@ -11412,8 +11185,6 @@ http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=default
 http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 group-title="Кино",Про100 ТВ
-http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="Кино",Кинеко
 http://31.148.48.15/Kineko/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Родное кино
